@@ -11,6 +11,8 @@ El presente sistema cumplirá la función de manejo de proyectos con asignación
 ### Responsable Gonzalo Lima
 - Compra de vasos Willi Becher y facturación
 - Compra de dominio y correo (godaddy) - 16 de Mayo
+- Sistema de gestión de proyectos
+- App reloj checador
 - Gestión de serigrafia de vasos - 25 de Mayo
 - DJ Piqui - 25 de Mayo
 - Embotellar 5 muestras para Aro Rojo - 23 de Mayo
