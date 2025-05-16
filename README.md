@@ -2,6 +2,12 @@
 El presente sistema cumplirá la función de manejo de proyectos con asignación de responsables y fechas compromiso para Cervecería Jardín.
 
 ## Corto Plazo (1 mes)
+### Responsables Todos:
+- Organización de colaboraciones
+  #### Perro loco - base pale con betabel y naranja
+  #### Alquimia - Lichtenheiner - Lunes 19 de Mayo ?
+  #### OBNI - Doble IPA DDH (TDH? asi como que distraidamente le agregas 2 kg de lupulo a 1BBL por tu TDH)
+  
 ### Responsable Laura:
 - Logo 3er aniversario con Makri - 25 de Mayo
 - DJ Franko - 6 de Junio
